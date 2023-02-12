@@ -6,6 +6,7 @@
     "require": {
         "magento/framework": "*",
         "hryvinskyi/magento2-logger": "1.*",
+        "hryvinskyi/magento2-seo": "1.*",
         "hryvinskyi/magento2-seo-api": "1.0.*"
     },
     "require-dev": {
